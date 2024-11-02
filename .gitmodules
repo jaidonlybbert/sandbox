@@ -1,0 +1,9 @@
+[submodule "xml-sandbox-schema"]
+	path = xml-sandbox-schema
+	url = git@github.com:jaidonlybbert/xml-sandbox-schema.git
+[submodule "go-sandbox-server"]
+	path = go-sandbox-server
+	url = git@github.com:jaidonlybbert/go-sandbox-server.git
+[submodule "Vulkan-Samples"]
+	path = Vulkan-Samples
+	url = git@github.com:jaidonlybbert/Vulkan-Samples.git
