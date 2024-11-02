@@ -4,3 +4,6 @@
 [submodule "Vulkan-Samples"]
 	path = Vulkan-Samples
 	url = git@github.com:jaidonlybbert/Vulkan-Samples.git
+[submodule "flatbuffers-sandbox-schema"]
+	path = flatbuffers-sandbox-schema
+	url = git@github.com:jaidonlybbert/flatbuffers-sandbox-schema.git
